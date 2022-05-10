@@ -1,4 +1,5 @@
-👋 Hi, I’m Fernando and my nickname is the letter "x" + my name typed backwards (it doesn't means anything.. i just like it)
+👋 Hi, I’m Fernando and my nickname is a joke with my name and the NAND gate output (1, 1, 1, 0) ... so fer + 1110 = "Fernand". I decided to supress the letter 'O' just to make it easier.
+
 
 🤓 I’m currently learning ReactJS, NodeJS and Typescript, and I intend to also learn Python A.S.A.P. in order to build some data science projects.
 
