@@ -1,8 +1,19 @@
-👋 Hi, I’m Fernando and my nickname is a joke with my name and the NAND gate output (1, 1, 1, 0) ... so fer + 1110 = "Fernand". I decided to supress the letter 'O' just to make it easier.
+👋 Hi, my name is Fernando Vargas. I intend to become a Full Stack Developer.
 
+🏡 I'm from Brazil
 
-🤓 I’m currently learning ReactJS, NodeJS and Typescript, and I intend to also learn Python A.S.A.P. in order to build some data science projects.
+💪 Skills:
+- HTML
+- CSS
+- JS
+- Python
+- VBA
 
+🤓 Currently learning:
+- ReactJS
+- NodeJS
+
+👀 Checkout my pens at https://codepen.io/ibuildbots
 
 
 <!---
